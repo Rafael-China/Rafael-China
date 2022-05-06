@@ -21,5 +21,3 @@ Oi Sou Rafael, mas me chame de China
   ![Snake animation](https://github.com/Rafael-China/Rafael-China/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-China2121&repo=Rafael-China&theme=react)]
