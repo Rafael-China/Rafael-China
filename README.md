@@ -22,4 +22,4 @@ Oi Sou Rafael, mas me chame de China
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-China2121&repo=Rafael-China&theme=react)](https://github.com/Rafael-China)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-China2121&repo=Rafael-China&theme=react)]
