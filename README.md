@@ -7,7 +7,7 @@ Oi Sou Rafael, mas me chame de China
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Rafael-China&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-China&layout=compact&langs_count=7&theme=react" />
 
-  <img align="center" width="148" height="180" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fwall-street-gifs&psig=AOvVaw2kcJJf-RaXcZpy-dN7LffA&ust=1651933772259000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJCLxP-Ky_cCFQAAAAAdAAAAABAD">
+
 </div>
  <br>
 <div  align="center"> 
