@@ -5,7 +5,10 @@ Oi Sou Rafael, mas me chame de China
 <div>
 
 <a href="https://github.com/Rafael-China">
-
+<img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?
+username=Rafael-China&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Chinalayout=compact&langs_count=7&theme=react" />
+ 
 </div>
  <br>
 <div  align="center"> 
