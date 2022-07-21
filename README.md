@@ -1,6 +1,7 @@
 Oi Sou Rafael, mas me chame de China 
-
-- Estou cursando no momento Desenvolvimento de Sistema
+- 💻 Desenvolvimento de Sistemas / Senai CTTI.
+- 💬 18 anos.
+- 🌎 Belo Horizonte / Minas Gerais.
 
 <div>
 </div>
@@ -10,7 +11,7 @@ Oi Sou Rafael, mas me chame de China
   
   <div align="center">
   <a href="https://github.com/Rafael-China">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-China&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rafael-China&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-China&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
