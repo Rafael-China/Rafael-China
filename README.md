@@ -1,4 +1,4 @@
-Oi Sou Rafael, mas me chame de China 
+Oi sou o Rafael, mas me chame de China 
 - 💻 Desenvolvimento de Sistemas / Senai CTTI.
 - 💬 18 anos.
 - 🌎 Belo Horizonte / Minas Gerais.
