@@ -1,4 +1,6 @@
 <h1 align="center"> Oi sou o Rafael, mas me chame de China <h1/>
+<hr>
+<h4>
 <br>
 - 💻 Desenvolvimento de Sistemas / Senai CTTI.
 <br>
@@ -36,3 +38,4 @@
    ![Snake animation](https://github.com/Rafael-China/Rafael-China/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+<h3/>
