@@ -1,6 +1,9 @@
 <h1 align="center"> Oi sou o Rafael, mas me chame de China <h1/>
+<br>
 - 💻 Desenvolvimento de Sistemas / Senai CTTI.
+<br>
 - 💬 18 anos.
+<br>
 - 🌎 Belo Horizonte / Minas Gerais.
 
 <div>
