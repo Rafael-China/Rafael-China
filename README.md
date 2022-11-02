@@ -2,9 +2,11 @@
 <hr>
 <h4>
 <br>
-- 💻 Desenvolvimento de Sistemas / Senai CTTI.
+- 📐 Engenharia Elétrica / UFMG (Cursando).
 <br>
-- 💬 18 anos.
+- 💻 Desenvolvimento de Sistemas / Senai CTTI (Trancado parcialmente).
+<br>
+- 💬 19 anos.
 <br>
 - 🌎 Belo Horizonte / Minas Gerais.
 
