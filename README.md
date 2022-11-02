@@ -18,9 +18,9 @@
   
   <div align="center">
   <a href="https://github.com/Rafael-China">
-     <img src="https://github-readme-stats.vercel.app/api?username=wgtsantos&show_icons=true&locale=en" alt="wgtsantos" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafael-China&show_icons=true&locale=en" alt="Rafael-China" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-China&layout=compact&langs_count=7&theme=tokyonight"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wgtsantos&show_icons=true&locale=en&layout=compact" alt="wgtsantos" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafael-China&show_icons=true&locale=en&layout=compact" alt="Rafael-China" />
 </div>
 
 <div style="display: inline_block"><br>
