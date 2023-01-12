@@ -12,15 +12,7 @@
 
 <div>
 </div>
- <br>
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-  
-  <div align="center">
-  <a href="https://github.com/Rafael-China">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafael-China&show_icons=true&locale=en" alt="Rafael-China" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafael-China&show_icons=true&locale=en&layout=compact" alt="Rafael-China" />
-</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
