@@ -1,7 +1,7 @@
 <h1 align="center"> Ola!!! Meu nome é Rafael de Carvalho, mas me chame de China 😁 <h1/>
 <hr>
 <h4>
- <p>Um pequeno entusiasta da área da programação</p>
+ <p>Um pequeno entusiasta da área da programação.</p>
 <br>
 - 📐 Engenharia Elétrica / UFMG.
 <br>
