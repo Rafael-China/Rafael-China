@@ -33,4 +33,4 @@
 </div>
 <h3/>
 
-<div>https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-China&layout=compact</div>
+<div>![Anurag's GitHub stats-Dark] (https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-China&layout=compact)</div>
