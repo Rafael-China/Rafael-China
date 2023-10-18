@@ -2,8 +2,7 @@
     <h2> Olá! Seja muito bem-vindo ao meu Github </h2>
     <p>
       Meu nome é Rafael de Carvalho Nogueira, mas me chame de China. Sou
-      nascido em setembro de 2003 em Belo Horizonte, sou atualmente estudante de Engenharia Elétrica na UFMG,
-      sou ex aluno do Senai CTTI, onde cursei até o 2º módulo (não concluído).
+      nascido em setembro de 2003 em Belo Horizonte.
       <br><br>
       🌎 Belo Horizonte / Minas Gerais.
     </p>
