@@ -1,8 +1,7 @@
 <div align="center">
     <h2> Olá! Seja muito bem-vindo ao meu Github </h2>
     <p>
-      Meu nome é Rafael de Carvalho Nogueira, mas me chame de China. Sou
-      nascido em setembro de 2003 em Belo Horizonte.
+      Meu nome é Rafael de Carvalho Nogueira, mas me chame de China sou de Belo Horizonte.
       <br><br>
       🌎 Belo Horizonte / Minas Gerais.
     </p>
