@@ -1,7 +1,8 @@
 name: Generate Snake Animation
+
 on:
   schedule:
-    - cron: "0 */12 * * *"   # roda a cada 12 horas (nos minutos 0)
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -9,14 +10,14 @@ permissions:
 
 jobs:
   build:
-    name: Update snake animation
     runs-on: ubuntu-latest
+
     steps:
       - uses: Platane/snk@v3
-        id: snake-gif
         with:
           github_user_name: Rafael-China
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
